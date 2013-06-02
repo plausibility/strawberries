@@ -15,7 +15,9 @@ kw = {
     "author": "plausibility",
     "author_email": "chris@gibsonsec.org",
     "license": "MIT",
-    "packages": ['strawberries'],
+    "packages": [
+        'strawberries'
+    ],
     "install_requires": [
         "girclib==0.1-dev"
     ],
@@ -29,7 +31,7 @@ kw = {
         "Intended Audience :: End Users/Desktop",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-        "Programming Language :: Python :: 2"
+        "Programming Language :: Python :: 2",
         "Topic :: Communications :: Chat :: Internet Relay Chat"
     ]
 }
